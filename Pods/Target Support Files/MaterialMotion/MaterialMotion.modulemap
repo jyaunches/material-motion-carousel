@@ -1,0 +1,6 @@
+framework module MaterialMotion {
+  umbrella header "MaterialMotion-umbrella.h"
+
+  export *
+  module * { export * }
+}

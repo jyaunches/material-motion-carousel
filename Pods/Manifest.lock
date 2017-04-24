@@ -1,0 +1,17 @@
+PODS:
+  - IndefiniteObservable (3.1.0):
+    - IndefiniteObservable/lib (= 3.1.0)
+  - IndefiniteObservable/lib (3.1.0)
+  - MaterialMotion (1.1.0):
+    - IndefiniteObservable (~> 3.0)
+
+DEPENDENCIES:
+  - MaterialMotion
+
+SPEC CHECKSUMS:
+  IndefiniteObservable: 2789d61f487d8d37fa2b9c3153cc44d4447ff744
+  MaterialMotion: c0b44cb242cddc4106dab9d5b7cd0c4672c13e0a
+
+PODFILE CHECKSUM: 2f6bc4a0538395a799dddfa8f2b27e6d80584e56
+
+COCOAPODS: 1.2.1
